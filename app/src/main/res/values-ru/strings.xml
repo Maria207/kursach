@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Курсовая</string>
+    <string name="showbtn">О программе</string>
+    <string name="author_name">Студент: Ахильгова Мария</string>
+    <string name="author_group_number">Группа: M091601(70)</string>
+    <string name="work_name">Тема: Разработка справочника по системам массового обслуживания</string>
+
+</resources>

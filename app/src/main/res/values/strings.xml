@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kursovaya</string>
+    <string name="showbtn">About program</string>
+    <string name="author_name">Student: Akhilgova Maria</string>
+    <string name="author_group_number">Group: M091601(70)</string>
+    <string name="work_name">Work Name: Development of the application of the directory on queuing systems</string>
+
+</resources>
